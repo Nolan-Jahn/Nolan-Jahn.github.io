@@ -25,7 +25,7 @@ navbar-links:
     - About Me: "aboutme/"
     - Projects: "projects/"
     - Experimental Methods: "methods/"
-  CV: "/Nolan's CV 22.pdf"
+  CV: "/Nolan's CV 22.pdf/"
   #Resume:
 
 ################
