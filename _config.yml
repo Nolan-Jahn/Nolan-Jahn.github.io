@@ -21,11 +21,12 @@ title: Nolan Jahn
 
 navbar-links:
   Home: "Nolan-Jahn.github.io"
-  About Me: "aboutme/"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+  About Me:
+    - About Me: "aboutme/"
+    - Projects: "projects/"
+    - Experimental Methods: "methods/"
+  CV: 
+  Resume:
 
 ################
 # --- Logo --- #
