@@ -20,9 +20,8 @@ title: Nolan Jahn
 ###############################################
 
 navbar-links:
-  About Me: "aboutme"
-    - About Me: "aboutme/"
-    - Projects: "projects/"
+  Home: "Nolan-Jahn.github.io"
+  About Me: "aboutme/"
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
